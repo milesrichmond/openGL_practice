@@ -1,0 +1,5 @@
+/home/monikatoji/proj2/build/CMakeFiles/GLAD.dir
+/home/monikatoji/proj2/build/CMakeFiles/STB_IMAGE.dir
+/home/monikatoji/proj2/build/CMakeFiles/satallite.dir
+/home/monikatoji/proj2/build/CMakeFiles/edit_cache.dir
+/home/monikatoji/proj2/build/CMakeFiles/rebuild_cache.dir

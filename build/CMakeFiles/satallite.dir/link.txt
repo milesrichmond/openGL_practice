@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/satallite.dir/main.cpp.o -o satallite  libGLAD.a libSTB_IMAGE.a /usr/local/lib/libglfw3.a -lX11 -lXrandr -lXinerama -lXi -lXcursor -lGL -ldl -lpthread 

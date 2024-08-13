@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/monikatoji/proj2/build",
+  "command": "/usr/bin/cc  -I/home/monikatoji/proj2/include -g -o CMakeFiles/GLAD.dir/lib/glad.c.o -c /home/monikatoji/proj2/lib/glad.c",
+  "file": "/home/monikatoji/proj2/lib/glad.c"
+},
+{
+  "directory": "/home/monikatoji/proj2/build",
+  "command": "/usr/bin/c++  -I/home/monikatoji/proj2/include -g -o CMakeFiles/STB_IMAGE.dir/lib/stb_image.cpp.o -c /home/monikatoji/proj2/lib/stb_image.cpp",
+  "file": "/home/monikatoji/proj2/lib/stb_image.cpp"
+},
+{
+  "directory": "/home/monikatoji/proj2/build",
+  "command": "/usr/bin/c++  -I/home/monikatoji/proj2/include -g -o CMakeFiles/satallite.dir/main.cpp.o -c /home/monikatoji/proj2/main.cpp",
+  "file": "/home/monikatoji/proj2/main.cpp"
+}
+]
